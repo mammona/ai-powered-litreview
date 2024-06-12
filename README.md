@@ -9,7 +9,10 @@ This repository contains two main components: Abstract Screening and Information
 - [License](#license)
 
 ## Introduction
-<!-- Content for Introduction -->
+The proliferation of scientific literature necessitates efficient review mechanisms. This project integrates AI tools with vector databases to automate the screening and extraction of relevant information from academic papers. The two main scripts included are:
+
+Abstract Screening: Takes a CSV file containing titles and abstracts and screens them for relevance.
+Information Extraction: Uses the GeminiAI API to extract detailed information from the shortlisted papers.
 
 ## Abstract Screening
 <!-- Content for Abstract Screening -->
