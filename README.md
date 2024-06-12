@@ -15,10 +15,24 @@ Abstract Screening: Takes a CSV file containing titles and abstracts and screens
 Information Extraction: Uses the GeminiAI API to extract detailed information from the shortlisted papers.
 
 ## Abstract Screening
-<!-- Content for Abstract Screening -->
+#Description
+The AbstractScreening script processes a CSV file with titles and abstracts of scientific papers. It screens each entry for relevance based on predefined criteria, outputting the results in a new CSV file.
+
+#Input
+A CSV file containing titles and abstracts of scientific papers.
+#Output
+A CSV file with screened results, indicating which papers are relevant and which are not.
 
 ## Information Extraction
-<!-- Content for Information Extraction -->
+#Description
+The InformationExtraction script utilizes the GeminiAI API to extract detailed information from the shortlisted papers. This includes methodologies, algorithms, and other critical details mentioned in the abstracts.
+
+#Requirements
+GeminiAI API Key
+#Input
+A list of relevant papers from the AbstractScreening output.
+#Output
+Extracted information saved in a structured format for further analysis.
 
 ## Installation
 <!-- Content for Installation -->
