@@ -5,8 +5,6 @@ This repository contains two main components: Abstract Screening and Information
 - [Abstract Screening](#abstract-screening)
 - [Information Extraction](#information-extraction)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 The proliferation of scientific literature necessitates efficient review mechanisms. This project integrates AI tools with vector databases to automate the screening and extraction of relevant information from academic papers. The two main scripts included are:
