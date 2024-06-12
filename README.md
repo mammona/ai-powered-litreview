@@ -35,10 +35,17 @@ A list of relevant papers from the AbstractScreening output.
 Extracted information saved in a structured format for further analysis.
 
 ## Installation
-<!-- Content for Installation -->
+###Prerequisites
+Python 3.7 or higher
+GeminiAI API Key
+###Required Packages
+google-generativeai
+bibtexparser
+langchain-community
+python-dotenv
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
 
-## Usage
-<!-- Content for Usage -->
-
-## License
-<!-- Content for License -->
